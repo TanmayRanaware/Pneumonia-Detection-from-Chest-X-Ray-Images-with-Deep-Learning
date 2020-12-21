@@ -5,21 +5,25 @@ The aim of this study is to simplify the pneumonia detection process for experts
 
 ## METHOD
 We plan to detect Pneumonia and other abnormalities from Chest X-Ray images using Custom Deep Convolutional Neural Network and by retraining the pretrained model “InceptionV3”.
-<ul>
-<li>Domain -
-  
+
+### Domain -
   Computer Vision, Machine Learning
-<\li>
 
-● ### Subdomain - Deep Learning, Image Recognition
+### Subdomain - 
+Deep Learning, Image Recognition
 
-● ### Techniques - Deep Convolutional Neural Network, ImageNet, Inception
+ ### Techniques - 
+ Deep Convolutional Neural Network, ImageNet, Inception
 
-● ### Application - Image Recognition, Image Classification, Medical Imaging
+### Application - 
+Image Recognition, Image Classification, Medical Imaging
 
-● ### Languages - Python
+### Languages - 
+Python
 
-● ###Tools - Anaconda
+### Tools - 
+Anaconda
 
-● ### Libraries - Keras, Tensorflow, Inception, ImageNet
-<\ul>
+### Libraries -
+Keras, Tensorflow, Inception, ImageNet
+
