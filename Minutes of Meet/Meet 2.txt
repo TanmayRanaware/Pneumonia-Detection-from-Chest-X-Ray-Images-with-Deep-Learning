@@ -1,0 +1,15 @@
+2nd Meet
+Mentors: Shreeya,Rakshita
+Mentees: Tanmay Ranaware,Shivangi
+
+-Share rough structure of code
+-Discuss what each mentees understood from research papers.
+
+Task for mentees-
+
+-Understand the code and implement by making suitable changes
+
+Deadline-15/12/2020
+
+
+Next meet is scheduled on 30/11/202.

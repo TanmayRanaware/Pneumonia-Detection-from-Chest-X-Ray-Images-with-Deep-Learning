@@ -1,0 +1,21 @@
+Introductory Meet
+Mentors: Shreeya,Rakshita
+Mentees: Tanmay Ranaware,Shivangi
+
+Meet Agenda-
+-Understand project structure
+-Get familiar about CNN,transfer learning
+-Discuss which dataset will be used
+
+
+Task for mentees-
+
+-Go through research papers
+-Learn CNN
+-Learn how transfer learning works
+-Go through dataset and get familiar 
+
+Deadline-14/12/2020
+
+
+Next meet is scheduled on 15/12/2020
